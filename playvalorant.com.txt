@@ -1,6 +1,0 @@
-fulfillment
-redeem
-optin
-login
-xsso
-spikemasters-cz
