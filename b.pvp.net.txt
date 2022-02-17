@@ -1,0 +1,17 @@
+s-sea
+fe-europe
+g-europe
+s-americas
+dd
+l-sea
+g-americas
+fe-sea
+s-staging
+l-americas
+l-europe
+g-sea
+s-europe
+g-staging
+fe-staging
+fe-americas
+l-staging

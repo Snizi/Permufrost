@@ -1,0 +1,8 @@
+na
+pd
+eu
+ap
+glz-na-1
+glz-eu-1
+shared
+glz-ap-1
